@@ -1,0 +1,2 @@
+data:
+  Hashmap: '{a: "http://localhost:8081/client/health",b: "http://localhost:8082/client/health",c: "http://localhost:8083/client/health"}'
